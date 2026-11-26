@@ -1,6 +1,6 @@
 
 import json
-from pathlib import Pat
+from pathlib import Path
 
 FILE = Path("accounts.json")
 
